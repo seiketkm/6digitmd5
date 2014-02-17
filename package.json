@@ -1,0 +1,15 @@
+{
+  "name": "6digit to md5",
+  "version": "0.0.1",
+  "description": "6 digit md5",
+  "main": "md5.js",
+  "dependencies": {
+    "underscore": "~1.6.0",
+    "underscore.string": "~2.3.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+  },
+  "author": "",
+  "license": "ISC"
+}
